@@ -1,5 +1,9 @@
 # Lab: Class 11: Numpy Arrays
 
+## GitHub Pull Requests:
+[https://github.com/joseph-zabaleta/chess-board/pull/1}](https://github.com/joseph-zabaleta/chess-board/pull/1)  
+
+
 ## Overview  
 This project is about constructing a chess board like its 1980. No prebuilt images just the power of arrays and pixel art.
 
